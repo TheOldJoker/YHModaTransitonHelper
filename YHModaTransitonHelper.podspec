@@ -16,7 +16,7 @@ Pod::Spec.new do |s|
   #
 
   s.name         = "YHModaTransitonHelper"
-  s.version      = "0.0.4"
+  s.version      = "0.0.5"
   s.summary      = "自定义moda转场"
 
   # This description is used to generate tags and improve search results.
@@ -80,7 +80,7 @@ Pod::Spec.new do |s|
   #  Supports git, hg, bzr, svn and HTTP.
   #
 
-  s.source       = { :git => "https://github.com/TheOldJoker/YHModaTransitonHelper.git", :tag => "0.0.4" }
+  s.source       = { :git => "https://github.com/TheOldJoker/YHModaTransitonHelper.git", :tag => "0.0.5" }
 
 
   # ――― Source Code ―――――――――――――――――――――――――――――――――――――――――――――――――――――――――――――― #
