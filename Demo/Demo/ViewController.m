@@ -17,7 +17,7 @@
     UIViewController * vc = [[UIViewController alloc] init];
     vc.view.backgroundColor = [UIColor redColor];
     vc.view.frame = CGRectMake(10, 20, 100, 100);
-    [self customPresentVC:vc animation:(YHModaAnimationTypeAlpha) showBlackBackgroud:YES canTapDismiss:YES];
+    [self customPresentVC:vc animation:(YHModaAnimationTypeDrawer) showBlackBackgroud:YES canTapDismiss:YES];
 }
     
 - (void)viewDidLoad {
